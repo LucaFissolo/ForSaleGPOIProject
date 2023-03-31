@@ -1,3 +1,6 @@
+//Alessandro Garino
+//Classe Bot
+
 import java.util.*;
 
 public class Bot {
