@@ -1,3 +1,6 @@
+//Alessandro Garino
+//Classe Soldi per la Classe Bot
+
 public class Soldi {
     private int valore;
 
