@@ -1,3 +1,6 @@
+//Alessandro Garino
+//Classe CartaProprietà per la classe Bot
+
 public class CartaProprieta {
     private int valore;
 
